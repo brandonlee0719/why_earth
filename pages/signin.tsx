@@ -1,3 +1,4 @@
+/* eslint-disable react/no-unescaped-entities */
 import { useAuthValues } from "@/context/contextAuth";
 import Head from "next/head";
 import Link from "next/link";
